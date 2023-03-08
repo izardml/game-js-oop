@@ -1,3 +1,1 @@
-# js-game-pbo
-
-Game JavaScript PBO.
+# JavaScript Game using OOP
